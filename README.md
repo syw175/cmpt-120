@@ -23,7 +23,6 @@ Note that some exercises may not be the most efficient solution. Feel free to as
 # Exercises 
 > **_NOTE:_**  All questions completed as part of the course practice problems and exercises.
 
-|                                    |                                                                                                                                         |                                                                                                                                              |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Name                               | Description                                                                                                                             | Solution                                                                                                                                     |
 | Motivational Quote Generator       | Print a quote from Les Brown                                                                                                            | [Solution](https://github.com/syw175/cmpt-120/blob/main/Week%201%20-%20Motivational%20Quote%20Generator/Motivational%20Quote%20Generator.py) |
