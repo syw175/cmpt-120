@@ -22,9 +22,8 @@ Note that some exercises may not be the most efficient solution. Feel free to as
 
 # Exercises 
 > **_NOTE:_**  All questions completed as part of the course practice problems and exercises.
-
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Name                               | Description                                                                                                                             | Solution                                                                                                                                     |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Motivational Quote Generator       | Print a quote from Les Brown                                                                                                            | [Solution](https://github.com/syw175/cmpt-120/blob/main/Week%201%20-%20Motivational%20Quote%20Generator/Motivational%20Quote%20Generator.py) |
 | Basic Chatbot                      | Basic chatbot that records input and reponds based on the answer                                                                        | [Solution](https://github.com/syw175/cmpt-120/tree/main/Week%202%20-%20Basic%20Chatbot)                                                      |
 | Rock Paper Scissors                | Rock paper scissor game                                                                                                                 | [Solution](https://github.com/syw175/cmpt-120/blob/main/Week%203%20-%20Rock%20Paper%20Scissors/rockPaperScissors.py)                         |
