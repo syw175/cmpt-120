@@ -22,6 +22,7 @@ Note that some exercises may not be the most efficient solution. Feel free to as
 
 # Exercises 
 > **_NOTE:_**  All questions completed as part of the course practice problems and exercises.
+
 |                                    |                                                                                                                                         |                                                                                                                                              |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Name                               | Description                                                                                                                             | Solution                                                                                                                                     |
